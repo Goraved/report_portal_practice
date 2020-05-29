@@ -1,0 +1,6 @@
+gevent
+pytest
+pytest-reportportal
+reportportal-client
+selenium
+webdriver_manager
